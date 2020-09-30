@@ -15,8 +15,9 @@ Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Ári
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 
 
-## Projetos:
+## Projetos:]
 Veja os projetos publicados no meu blog:
+* **Avaliação de Risco de Crédito:**[ Projeto](https://www.joaoataide.com/post/avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito)
 * **Predição de Evasão de Clientes em Empresas de Telecomunicações:**[ Projeto](https://www.joaoataide.com/post/predi%C3%A7%C3%A3o-de-evas%C3%A3o-de-clientes-em-empresas-de-telecomunica%C3%A7%C3%B5es)
 * **Detecção de Fraudes em Cartões de Crédito:**[ Projeto](https://www.joaoataide.com/post/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito)
 * **Previsão de Adoções de Animais com Prophet:**[ Projeto](https://www.joaoataide.com/post/previs%C3%A3o-de-s%C3%A9ries-temporais-com-o-prophet)
