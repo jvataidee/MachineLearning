@@ -6,16 +6,19 @@
 # João Ataíde
 <sub>*Cientista de Dados na Imagem Esri*</sub>
 
+---
+
 Esse aqui é meu reporitório de Machine Learning, essa é focado especificamente em projetos de clasificação, previsão e todas as outras aplicações do Machine Learning. 
 
-**Links:**
+**Background in:** Python, Pandas, Numpy, Mathplolib, Seaborn, sklearn, pycaret, kears, tensorflow, pytorch.
+---
+
+**Contatos:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 * e_mail: contato@joaoataide.com
 
-
-
-## Projetos:]
+*Projetos:*
 Veja os projetos publicados no meu blog:
 * **Avaliação de Risco de Crédito:**[ Projeto](https://www.joaoataide.com/post/avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito)
 * **Predição de Evasão de Clientes em Empresas de Telecomunicações:**[ Projeto](https://www.joaoataide.com/post/predi%C3%A7%C3%A3o-de-evas%C3%A3o-de-clientes-em-empresas-de-telecomunica%C3%A7%C3%B5es)
