@@ -24,15 +24,16 @@ You can find the projects published on his blog:
 ## Repository Content
 The repository contains various Jupyter notebooks with different Machine Learning projects, including:
 
-- `Avaliação_de_Risco_de_Crédito.ipynb`
-- `Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb`
-- `Classificação_de_Roupas.ipynb`
-- `Classificação_dos_jogadores_FIFA_2019.ipynb`
-- `Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb`
-- `Diagnostico_COVID_19.ipynb`
-- `Previsao_preco_gasolina.ipynb`
-- `Séries_Temporais_Prophet.ipynb`
-- `preco_imoveis_sao_paulo.ipynb`
+- [`Avaliação_de_Risco_de_Crédito.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Avaliação_de_Risco_de_Crédito.ipynb)
+- [`Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
+- [`Classificação_de_Roupas.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Classificação_de_Roupas.ipynb)
+- [`Classificação_dos_jogadores_FIFA_2019.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Classificação_dos_jogadores_FIFA_2019.ipynb)
+- [`Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb)
+- [`Diagnostico_COVID_19.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Diagnostico_COVID_19.ipynb)
+- [`Previsao_preco_gasolina.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Previsao_preco_gasolina.ipynb)
+- [`Séries_Temporais_Prophet.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/Séries_Temporais_Prophet.ipynb)
+- [`preco_imoveis_sao_paulo.ipynb`](https://github.com/jvataidee/MachineLearning/blob/master/preco_imoveis_sao_paulo.ipynb)
+
 
 ## Additional Information
 - No releases published
