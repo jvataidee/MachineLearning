@@ -14,13 +14,13 @@ João has a background in Python, Pandas, Numpy, Mathplolib, Seaborn, sklearn, p
 ## Projects
 You can find the projects published on his blog:
 
-1. [Avaliação de Risco de Crédito (Credit Risk Assessment)](https://joaoataide.com/Avaliação-de-Risco-de-Crédito)
-2. [Predição de Evasão de Clientes em Empresas de Telecomunicações (Prediction of Customer Churn in Telecommunications Companies)](https://joaoataide.com/Predição-de-Evasão-de-Clientes-em-Empresas-de-Telecomunicações)
-3. [Detecção de Fraudes em Cartões de Crédito (Detection of Credit Card Fraud)](https://www.joaoataide.com/post/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito)
-4. [Previsão de Adoções de Animais com Prophet (Prediction of Animal Adoptions with Prophet)](https://joaoataide.com/Previsão-de-Adoções-de-Animais-com-Prophet)
-5. [Diagnóstico de COVID-19 com imagens de raio - X (Diagnosis of COVID-19 with X-ray images)](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
-6. [Análise Financeira Para Pecuária de Corte (Análise Financeira Para Pecuária de Corte)](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
-7. [Qual formação dos sêniores que trabalham com ciência de dados no Brasil? (Qual formação dos sêniores que trabalham com ciência de dados no Brasil?)](https://www.joaoataide.com/post/qual-formacao-dos-senior-que-trabalham-com-ciencia-de-dados-no-brasil)
+1. [Avaliação de Risco de Crédito](https://joaoataide.com/Avaliação-de-Risco-de-Crédito)
+2. [Predição de Evasão de Clientes em Empresas de Telecomunicações](https://joaoataide.com/Predição-de-Evasão-de-Clientes-em-Empresas-de-Telecomunicações)
+3. [Detecção de Fraudes em Cartões de Crédito (Detection of Credit Card Fraud](https://www.joaoataide.com/post/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito)
+4. [Previsão de Adoções de Animais com Prophet](https://joaoataide.com/Previsão-de-Adoções-de-Animais-com-Prophet)
+5. [Diagnóstico de COVID-19 com imagens de raio - X](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
+6. [Análise Financeira Para Pecuária de Corte](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
+7. [Qual formação dos sêniores que trabalham com ciência de dados no Brasil?](https://www.joaoataide.com/post/qual-formacao-dos-senior-que-trabalham-com-ciencia-de-dados-no-brasil)
 
 ## Repository Content
 The repository contains various Jupyter notebooks with different Machine Learning projects, including:
