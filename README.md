@@ -18,7 +18,6 @@ You can find the projects published on his blog:
 2. [Predição de Evasão de Clientes em Empresas de Telecomunicações](https://joaoataide.com/Predição-de-Evasão-de-Clientes-em-Empresas-de-Telecomunicações)
 3. [Detecção de Fraudes em Cartões de Crédito (Detection of Credit Card Fraud](https://www.joaoataide.com/post/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito)
 4. [Previsão de Adoções de Animais com Prophet](https://joaoataide.com/Previsão-de-Adoções-de-Animais-com-Prophet)
-5. [Diagnóstico de COVID-19 com imagens de raio - X](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
 6. [Análise Financeira Para Pecuária de Corte](https://joaoataide.com/Diagnóstico-de-COVID-19-com-imagens-de-raio-X)
 7. [Qual formação dos sêniores que trabalham com ciência de dados no Brasil?](https://www.joaoataide.com/post/qual-formacao-dos-senior-que-trabalham-com-ciencia-de-dados-no-brasil)
 
