@@ -1,7 +1,7 @@
 ![Project Image](ML.png)
 # Machine Learning Repository by João Ataíde
 
-João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his Machine Learning projects, specifically focused on classification, prediction, and all other applications of Machine Learning.
+This repository is dedicated to his Machine Learning projects, specifically focused on classification, prediction, and all other applications of Machine Learning.
 
 ## Background
 João has a background in Python, Pandas, Numpy, Mathplolib, Seaborn, sklearn, pycaret, kears, tensorflow, and pytorch.
